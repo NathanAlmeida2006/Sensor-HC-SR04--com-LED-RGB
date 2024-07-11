@@ -15,8 +15,8 @@ Este projeto utiliza um sensor de distância ultrassônico para medir a distânc
 - **Sensor Ultrassônico (HC-SR04)**
   - VCC -> 5V no Arduino
   - GND -> GND no Arduino
-  - Trig -> Pino 9 no Arduino
-  - Echo -> Pino 8 no Arduino
+  - Trig -> Pino 4 no Arduino
+  - Echo -> Pino 3 no Arduino
 
 - **LED RGB**
   - Comum -> GND (com resistor de 220Ω)
